@@ -2,7 +2,7 @@
 
 - 📖 I'm a Developer wannabe, studying Informatics at Brawijaya Uni.
 - 🔭 Currently interested in Mobile and Game Development in Open Source Environment
-- 📫 If you're interested in me, check out my [Linkedin](https://www.linkedin.com/in/ahmrh/).
+- 📫 If you want to reach me more, check out my [Linkedin](https://www.linkedin.com/in/ahmrh/).
 - ⚡ Fun fact: Violets aren't blue.
 <!--
 **ahmrh/ahmrh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
