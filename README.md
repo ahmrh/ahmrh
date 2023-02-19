@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I'm a Developer wannabe, currently studying Informatics in Brawijaya Uni.
+- 📫 If you're interested in me, check out my [Linkedin](https://www.linkedin.com/in/ahmrh/)
+- ⚡ Fun fact: Violets aren't blue
 <!--
 **ahmrh/ahmrh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
