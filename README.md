@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 📖 I'm a Developer wannabe, studying Informatics at Brawijaya Uni.
-- 🔭 Currently interested in Mobile and Game Development in Open Source Environment
+- 📖 I'm a Software Developer wannabe, studying Informatics at Brawijaya Uni.
+- 🔭 Has a little bit experience in Web Development, especially Front End
+- 🌱 Currently interested in Mobile and Game Development in Open Source Environment
 - 📫 If you want to reach me more, check out my [Linkedin](https://www.linkedin.com/in/ahmrh/).
 - ⚡ Fun fact: Violets aren't blue.
 
