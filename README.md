@@ -2,9 +2,9 @@
 
 - 📖 I'm a Software Engineer wannabe, studying Informatics at Brawijaya Uni
 - 🧑🏻‍💻 Has a bit experience in Mobile Android Development using Kotlin
-- 🤹🏻 Also has a little bit experience in Web Development, especially Front End
-- 🌱 Currently interested in Multi-platform and Back End Development in Open Source Environment
-- 🔭 Also currently looking for a game project using Unity Game Engine
+- 🤹🏻 Also has a little bit experience in Front End and Game Development
+- 🐧 Currently use [Nobara Project](https://nobaraproject.org/) 
+- 🌱 Interested in Multi-platform and Back End Development
 - 📫 If you want to reach me more, check out my [Linkedin](https://www.linkedin.com/in/ahmrh/).
 - 💬 Fun fact: Violets aren't blue.
 
