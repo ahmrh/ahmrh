@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 📖 I'm a Software Engineer wannabe, studying Informatics at Brawijaya Uni
-- 🧑🏻‍💻 Has a bit experience in Mobile Android Development using Kotlin
-- 🤹🏻 Also has a little bit experience in Front End and Game Development
+- 🧑🏻‍💻 Has experience in Mobile Android Development using Kotlin
+- 🤹🏻 Also has a little bit experience in Front End and Game Development using Unity
 - 🌱 Currently Interested in Multi-platform and Back End Development
 - 📫 If you want to reach me more, check out my [LinkedIn](https://www.linkedin.com/in/ahmrh/).
 - 💬 Fun fact: Violets aren't blue.
