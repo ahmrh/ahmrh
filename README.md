@@ -1,5 +1,10 @@
 # 💫 About Me:
-📖 I'm a Self-proclaimed Software Engineer, studying Informatics at Brawijaya Uni<br>🔭 I'm currently working on Serene, Gamified Self-care Mobile App<br>🧑🏻‍💻 Has experience in Mobile Android Development using Kotlin<br>🤹🏻 Also has a little bit experience in Front End Development<br>🌱 Currently Interested in Back End Development<br>💬 Fun fact: Violets aren't blue.
+ - 📖 I'm a Self-proclaimed Software Engineer, studying Informatics at Brawijaya Uni
+ - 🔭 I'm currently working on Serene, Gamified Self-care Mobile App
+ - 🧑🏻‍💻 Has experience in Mobile Android Development using Kotlin
+ - 🤹🏻 Also has a little bit experience in Front End Development
+ - 🌱 Currently Interested in Multi-platform and Back End Development
+ - 💬 Fun fact: Violets aren't blue.
 
 
 ## 🌐 Socials:
