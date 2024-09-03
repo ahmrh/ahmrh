@@ -46,6 +46,7 @@
 
 <!--
 
+
 ### Hi there 👋
 
 - 📖 I'm a Software Engineer wannabe, studying Informatics at Brawijaya Uni
@@ -74,3 +75,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- 日本に行きたい。。。　ああああー -->
