@@ -27,7 +27,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-# ⏳ WakaTime Stats (This Week):
+# ⏳ WakaTime (last 7 days):
 
 <!--START_SECTION:waka-->
 
