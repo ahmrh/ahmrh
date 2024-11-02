@@ -1,3 +1,4 @@
+
 # 💫 About Me:
  - 📖 I'm a Self-proclaimed Software Engineer, studied Informatics at Brawijaya Uni
  - 🧑🏻‍💻 Has experience in Mobile Android Development using Kotlin
@@ -5,11 +6,10 @@
  - 🌱 Currently Interested in Multi-platform and Back End Development
  - 💬 Fun fact: Violets aren't blue.
 
-
 # 🌐 Socials:
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/ahmrh_) 
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/ahmrh) 
 <!--
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/ahmrh) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmrh) 
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ahmrh) 
 --> 
