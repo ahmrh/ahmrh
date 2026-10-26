@@ -7,7 +7,8 @@
  - 💬 Fun fact: Violets aren't blue.
 
 # 🌐 Socials:
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/ahmrh_) 
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/ahmrh) 
+[![pwn.college](https://img.shields.io/badge/-pwn.college-1A1A1A?style=for-the-badge&logo=gnometerminal&logoColor=white)](https://pwn.college/hacker/227853)
 <!--
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/ahmrh) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmrh) 
